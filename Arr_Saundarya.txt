@@ -34,7 +34,7 @@ public class SecondLargestElement {
             }
         }
 
-        if (secondLargest == Integer.MIN_VALUE) {
+        if (secondLargest == Integer.MIN-VALUE) {
             System.out.println("No second largest element found (all elements may be equal).");
         } else {
             System.out.println("The second largest element is: " + secondLargest);
