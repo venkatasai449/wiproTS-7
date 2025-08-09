@@ -28,6 +28,6 @@ class A{
 	public static void main(String args[]){
 		A obj=new A();
 		A obj1=new A(sc.nextInt());
-		A obj2=new A(sc.next(),sc.nextByte());
+		
 	}
 }
